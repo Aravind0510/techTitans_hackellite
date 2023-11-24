@@ -1,4 +1,4 @@
-# techTitans_hackellite
+# TechTitans_hackellite
 ## Pancreatic and Brain Tumor Diagnostics Mobile App
 
 Welcome to the Pancreatic and Brain Tumor Diagnostics Mobile App, a cutting-edge solution for healthcare professionals.
