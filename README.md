@@ -87,6 +87,8 @@ Users can schedule doctor consultations and appointments seamlessly through the 
 
 For more details about the doctor consulting/appointment feature, refer to the [Doctor Consulting Documentation].
 
+link : https://tech-titans-i.netlify.app/
+
 ### web page
 ![ss2](https://github.com/Aravind0510/techTitans_hackellite/assets/106546654/e9cbb0d3-3820-40af-b52b-bae273f821cd)
 
